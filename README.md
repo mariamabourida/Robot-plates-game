@@ -1,2 +1,2 @@
 # Robot plates game
- 
+##### This is a Java-based game that utilizes five design patterns (Singleton, Strategy, Factory, Iterator, Observer). In this game, a robot holds colored falling shapes. If the robot holds three shapes of the same color, the score increases by one point. However, if a bomb is held, the score decreases by one point. The goal of the game is to score as many points as possible before time runs out.
